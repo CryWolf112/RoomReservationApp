@@ -1,27 +1,6 @@
 <h5>Welcome page</h5>
 ![Capture](https://user-images.githubusercontent.com/62839258/211212679-5360fb33-c1aa-44c1-999f-994bbf774f19.PNG)
 
-<h5>News page (user)</h5>
-![News (user)](https://user-images.githubusercontent.com/62839258/211214448-2f55daab-b732-4bd0-8949-3e142704c473.PNG)
-
-<h5>Contact page</h5>
-![Contact](https://user-images.githubusercontent.com/62839258/211214454-68e60b5c-602b-4511-8ad3-234554bd9d61.PNG)
-
-<h5>About us page</h5>
-![About](https://user-images.githubusercontent.com/62839258/211214460-43fed2b6-bb36-4fe2-ac71-d90868642abf.PNG)
-
-<h5>Login</h5>
-![Login](https://user-images.githubusercontent.com/62839258/211214466-70c5803c-00ae-44c9-a71f-ff7fc52242f3.PNG)
-
-<h5>Register page</h5>
-![Register](https://user-images.githubusercontent.com/62839258/211214477-cb1900a7-1480-44ac-9e58-c877e709367f.PNG)
-
-<h5>News page (admin)</h5>
-![News (admin)](https://user-images.githubusercontent.com/62839258/211214486-5f60677b-0a29-4a6d-b1f9-41d7f4ed4667.PNG)
-
-<h5>Profile page</h5>
-![Profile](https://user-images.githubusercontent.com/62839258/211214515-a31293ae-9117-4f07-9cf3-e4d64eca5e80.PNG)
-
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
