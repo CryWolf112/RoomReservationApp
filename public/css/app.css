@@ -58,6 +58,7 @@ form {
     background-color: rgba(36, 37, 43, 0.7);
     color: white;
     font-family: Arial, Helvetica, sans-serif;
+    position: static;
 }
 
 .card-header {
