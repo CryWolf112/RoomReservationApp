@@ -1,4 +1,4 @@
-<h5>Welcome page<p/>
+<h5>Welcome page</p>
 ![Capture](https://user-images.githubusercontent.com/62839258/211212679-5360fb33-c1aa-44c1-999f-994bbf774f19.PNG)
 
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
